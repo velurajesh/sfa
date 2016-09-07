@@ -1,0 +1,45 @@
+#headerBlocksSCSS p {
+  color: blue; }
+
+#headerBlocksSCSS header {
+  border: 1px solid red; }
+  #headerBlocksSCSS header p {
+    color: blue; }
+
+#styleSCSSFile {
+  color: red; }
+
+#styleSCSSFile .testingCSSminification {
+  color: black;
+  font-size: 45px;
+  border: 10px solid green;
+  float: none; }
+
+h1 {
+  color: green; }
+
+h2 {
+  font-size: 25px;
+  colord: red; }
+
+h3 {
+  color: blue; }
+  h3 span {
+    color: blue; }
+  h3 blockquote {
+    color: red; }
+  h3 em {
+    color: red; }
+
+#style2SCSSFile {
+  border: red; }
+
+span {
+  float: right;
+  color: black; }
+
+#checkingCombinedScss p {
+  font-weight: bold; }
+  #checkingCombinedScss p span {
+    color: blue;
+    border: 10px solid red; }

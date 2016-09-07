@@ -1,0 +1,20 @@
+
+#style2SCSSFile{ 
+	border:red;
+}
+
+span{
+	
+	float:right;
+	color:black;
+}
+
+#checkingCombinedScss p{
+	font-weight: bold;
+		span{
+			color:blue;
+			border:10px solid red;
+			
+		}
+
+}
