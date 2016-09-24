@@ -1,3 +1,6 @@
+
+// this is just a test file ... no significance to the project
+
 function myMove() {
   var elem =    document.getElementById("animate");
   var pos = 0;

@@ -1,3 +1,5 @@
+
+// this is just a test file ... no significance to the project
 function myFunction() {
     var x = document.forms["frm1"];
     var text = " ";
